@@ -52,6 +52,15 @@ h3{
 .text{
   margin-bottom: 15px;
 }
+.register a{
+  color: #fff;
+  text-decoration: underline;
+}
+.register a:hover{
+  color: #d0d0d0;
+  text-decoration: underline;
+}
+
 .graphics-container{
   /*position: relative;*/
 }
